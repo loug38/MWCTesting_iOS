@@ -1,2 +1,2 @@
 # MWCTesting
-Testing out the capabilities of react-native. Mostly to learn the language, and partially for the fun.
+Testing out the capabilities of react-native. Mostly to learn the language, and partially for the fun. As of 09/21/16 this app is generally abandoned. It will crash due to the underlying datastructure being not well thought out since this was the first time ever working with either react-native or javascript and was unfamiliar with how to build it. I got what I needed out of it, which was learning react-native and how to structure the app. I choose to keep it up on github because at least the interface is nice, and its a good reference on how to do things like Navigators and building components.
